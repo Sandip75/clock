@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+    font-family: "Bold", sans-serif;
+    font-size: 48px;
+    color: black;
+}
+table {
+    vertical-align: center;
+    height: 30%;
+    width: 100%;
+}
+body {
+    background:brown;
+    margin: 0;
+    padding: 0;
+    /*background-image: url("https://s7d2.scene7.com/is/image/homedepotcanada/p_1000762494.jpg?$plpProduct$");*/
+}
+/*canvas {
+    background-color: transparent;
+}*/
